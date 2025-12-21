@@ -190,7 +190,7 @@ Projemizi beğendiyseniz, diğer projelerimize de göz atabilirsiniz:
 
 ### 🎮 Oynamaya Hazır mısın?
 
-**[Hemen Başla](#)** • **[Demo İzle](#)** • **[Topluluk](#)**
+**[Hemen Başla](#)**
 
 ---
 
