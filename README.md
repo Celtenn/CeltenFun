@@ -143,7 +143,7 @@
 ![Chess Game](https://github.com/Celtenn/CeltenFun/blob/main/chess.jpg)
 
 ### Profil & İstatistikler
-![Profile](https://via.placeholder.com/800x450/0a0e27/ffaa00?text=User+Profile)
+![Profile](https://github.com/Celtenn/CeltenFun/blob/main/profile.jpg)
 
 </div>
 
