@@ -190,7 +190,7 @@ Projemizi beğendiyseniz, diğer projelerimize de göz atabilirsiniz:
 
 ### 🎮 Oynamaya Hazır mısın?
 
-**[Hemen Başla](#)**
+**[Hemen Başla](https://celten.fun/index.php)**
 
 ---
 
