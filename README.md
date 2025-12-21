@@ -180,7 +180,7 @@ Bu proje **MIT License** altında lisanslanmıştır. Detaylar için [LICENSE](L
 
 Projemizi beğendiyseniz, diğer projelerimize de göz atabilirsiniz:
 
-- [Project 1](#)
+- [Project 1](https://github.com/Celtenn/CELNOTE)
 - [Project 2](#)
 - [Project 3](#)
 
