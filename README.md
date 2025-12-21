@@ -194,7 +194,7 @@ Projemizi beğendiyseniz, diğer projelerimize de göz atabilirsiniz:
 
 ---
 
-**Made with ❤️ and ⚡ by Celten**
+**Made with ⚡ by Celten**
 
 **© 2025 Celten Yapımı. Tüm hakları saklıdır.**
 
