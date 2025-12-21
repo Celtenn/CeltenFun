@@ -134,7 +134,7 @@
 <div align="center">
 
 ### Ana Sayfa
-![Homepage](https://via.placeholder.com/800x450/0a0e27/00ff88?text=Neon+Arcade+Homepage)
+![Homepage](https://github.com/Celtenn/CeltenFun/blob/main/index.jpg)
 
 ### Oyun Seçimi
 ![Game Selection](https://via.placeholder.com/800x450/0a0e27/ff00ff?text=Game+Library)
