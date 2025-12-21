@@ -140,7 +140,7 @@
 ![Game Selection](https://github.com/Celtenn/CeltenFun/blob/main/selection.jpg)
 
 ### PvP Satranç
-![Chess Game](https://via.placeholder.com/800x450/0a0e27/00ffff?text=Neon+Chess+PvP)
+![Chess Game](https://github.com/Celtenn/CeltenFun/blob/main/chess.jpg)
 
 ### Profil & İstatistikler
 ![Profile](https://via.placeholder.com/800x450/0a0e27/ffaa00?text=User+Profile)
