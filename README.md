@@ -137,7 +137,7 @@
 ![Homepage](https://github.com/Celtenn/CeltenFun/blob/main/index.jpg)
 
 ### Oyun Seçimi
-![Game Selection](https://via.placeholder.com/800x450/0a0e27/ff00ff?text=Game+Library)
+![Game Selection](https://github.com/Celtenn/CeltenFun/blob/main/selection.jpg)
 
 ### PvP Satranç
 ![Chess Game](https://via.placeholder.com/800x450/0a0e27/00ffff?text=Neon+Chess+PvP)
