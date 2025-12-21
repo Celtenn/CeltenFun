@@ -157,19 +157,11 @@ Bu proje **MIT License** altında lisanslanmıştır. Detaylar için [LICENSE](L
 
 ---
 
-## 🌟 Yıldız Geçmişi
-
-[![Star History Chart](https://api.star-history.com/svg?repos=kullaniciadi/celten-fun&type=Date)](https://star-history.com/#kullaniciadi/celten-fun&Date)
-
----
-
 ## 📞 İletişim & Destek
 
 - 🌐 **Website:** [celten.fun](#)
-- 💬 **Discord:** [Discord Sunucusu](#)
 - 🐦 **Twitter:** [@celtenfun](#)
 - 📧 **Email:** enescelten@gmail.com
-- 📝 **Blog:** [blog.celten.fun](#)
 
 ---
 
