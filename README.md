@@ -9,8 +9,6 @@
 
 **Modern web teknolojileri ile geliştirilmiş, kurulum gerektirmeyen, tamamen ücretsiz neon temalı arcade platformu.**
 
-[🎮 Demo'yu Dene](#) • [📖 Dokümantasyon](#)
-
 ![Celten Fun Banner](https://via.placeholder.com/1200x400/0a0e27/00ff88?text=Celten+Fun+-+Neon+Arcade+Platform)
 
 </div>
