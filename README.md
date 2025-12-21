@@ -186,18 +186,6 @@ Bu proje **MIT License** altında lisanslanmıştır. Detaylar için [LICENSE](L
 
 ---
 
-## 💝 Destekçilerimiz
-
-Bu proje topluluk desteği ile gelişmektedir. Katkıda bulunan herkese teşekkürler!
-
-### Stargazers
-[![Stargazers](https://reporoster.com/stars/kullaniciadi/celten-fun)](https://github.com/kullaniciadi/celten-fun/stargazers)
-
-### Forkers
-[![Forkers](https://reporoster.com/forks/kullaniciadi/celten-fun)](https://github.com/kullaniciadi/celten-fun/network/members)
-
----
-
 ## 🔥 Popüler Repolar
 
 Projemizi beğendiyseniz, diğer projelerimize de göz atabilirsiniz:
