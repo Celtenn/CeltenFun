@@ -98,34 +98,6 @@
 ✅ Başarı sistemi
 ✅ Topluluk etkileşimi
 ```
-
----
-
-## 🚀 Hızlı Başlangıç
-
-### Oyuncu İçin
-1. 🌐 Siteyi ziyaret edin
-2. 📝 Hızlı kayıt olun (30 saniye!)
-3. 🎮 Oyun seçin ve oynamaya başlayın
-4. 💎 Coin kazanın, seviye atlayın!
-
-### Geliştirici İçin
-```bash
-# Repoyu klonlayın
-git clone https://github.com/kullaniciadi/celten-fun.git
-
-# Dizine girin
-cd celten-fun
-
-# PHP sunucusunu başlatın
-php -S localhost:8000
-
-# Tarayıcıda açın
-http://localhost:8000
-```
-
-**Gereksinimler:** PHP 8.0+, SQLite desteği
-
 ---
 
 ## 🎯 Teknoloji Stack
