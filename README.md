@@ -198,7 +198,7 @@ Projemizi beğendiyseniz, diğer projelerimize de göz atabilirsiniz:
 
 **Made with ❤️ and ⚡ by Celten**
 
-**© 2025 Celten Fun. Tüm hakları saklıdır.**
+**© 2025 Celten Yapımı. Tüm hakları saklıdır.**
 
 [![Powered by PHP](https://img.shields.io/badge/Powered%20by-PHP-777BB4?logo=php&logoColor=white)](https://php.net)
 [![Built with Tailwind](https://img.shields.io/badge/Built%20with-Tailwind-38B2AC?logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
