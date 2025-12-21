@@ -151,33 +151,6 @@
 
 ---
 
-## 🤝 Katkıda Bulunma
-
-Celten Fun açık kaynak bir projedir ve katkılarınızı bekliyoruz!
-
-### Nasıl Katkıda Bulunabilirsiniz?
-
-🎮 **Yeni Oyun Ekleyin** - Modüler yapı sayesinde kolayca yeni oyunlar ekleyebilirsiniz
-
-🐛 **Bug Bildirin** - Issue açarak karşılaştığınız sorunları paylaşın
-
-💡 **Özellik Önerin** - Hayal ettiğiniz özellikleri önerin
-
-📝 **Dokümantasyon** - Dokümantasyonu geliştirin
-
-🎨 **Tasarım** - Neon temasını zenginleştirin
-
-### Adımlar
-```bash
-1. Fork'layın
-2. Branch oluşturun (git checkout -b yeni-ozellik)
-3. Commit'leyin (git commit -m 'Yeni oyun: Space Invaders')
-4. Push'layın (git push origin yeni-ozellik)
-5. Pull Request açın
-```
-
----
-
 ## 📜 Lisans
 
 Bu proje **MIT License** altında lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasını inceleyebilirsiniz.
@@ -195,7 +168,7 @@ Bu proje **MIT License** altında lisanslanmıştır. Detaylar için [LICENSE](L
 - 🌐 **Website:** [celten.fun](#)
 - 💬 **Discord:** [Discord Sunucusu](#)
 - 🐦 **Twitter:** [@celtenfun](#)
-- 📧 **Email:** support@celten.fun
+- 📧 **Email:** enescelten@gmail.com
 - 📝 **Blog:** [blog.celten.fun](#)
 
 ---
