@@ -158,7 +158,6 @@ Bu proje **MIT License** altında lisanslanmıştır. Detaylar için [LICENSE](L
 ## 📞 İletişim & Destek
 
 - 🌐 **Website:** [celten.fun](https://celten.fun/index.php)
-- 🐦 **Twitter:** [@celtenfun](#)
 - 📧 **Email:** enescelten@gmail.com
 
 ---
