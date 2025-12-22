@@ -134,16 +134,16 @@
 <div align="center">
 
 ### Ana Sayfa
-![Homepage](https://github.com/Celtenn/CeltenFun/blob/main/index.jpg)
+![Homepage](https://github.com/Celtenn/CeltenFun/blob/main/index.png)
 
 ### Oyun Seçimi
-![Game Selection](https://github.com/Celtenn/CeltenFun/blob/main/selection.jpg)
+![Game Selection](https://github.com/Celtenn/CeltenFun/blob/main/selection.png)
 
 ### PvP Satranç
-![Chess Game](https://github.com/Celtenn/CeltenFun/blob/main/chess.jpg)
+![Chess Game](https://github.com/Celtenn/CeltenFun/blob/main/chess.png)
 
 ### Profil & İstatistikler
-![Profile](https://github.com/Celtenn/CeltenFun/blob/main/profile.jpg)
+![Profile](https://github.com/Celtenn/CeltenFun/blob/main/profile.png)
 
 </div>
 
