@@ -9,7 +9,7 @@
 
 **Modern web teknolojileri ile geliştirilmiş, kurulum gerektirmeyen, tamamen ücretsiz neon temalı arcade platformu.**
 
-![Celten Fun Banner](https://github.com/Celtenn/CeltenFun/blob/main/favico.png)
+![Celten Fun Banner](https://github.com/Celtenn/CeltenFun/blob/main/favic.png)
 
 </div>
 
